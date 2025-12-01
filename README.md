@@ -8,7 +8,7 @@ I'm a passionate software developer with expertise in multiple programming langu
 
 - **Programming Languages:**
   - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  - VB.NET
+  - ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   - JavaScript (React)
 - **Frameworks and Libraries:**
   - .NET Framework
