@@ -7,7 +7,7 @@ I'm a passionate software developer with expertise in multiple programming langu
 ## Skills
 
 - **Programming Languages:**
-  - C#
+  - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   - VB.NET
   - JavaScript (React)
 - **Frameworks and Libraries:**
