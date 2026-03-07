@@ -1,6 +1,6 @@
 👋 Hola, soy Jorge Cabrera
 
-💻 Desarrollador .NET especializado en desarrollo de aplicaciones empresariales.
+💻Backend Developer especializado en .NET, APIs y sistemas empresariales.
 
 Actualmente trabajo desarrollando sistemas con:
 
