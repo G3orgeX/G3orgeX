@@ -55,7 +55,7 @@ Tecnologías utilizadas:
 
 # 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/jorge-david-cabrera
+- LinkedIn: h[ttps://www.linkedin.com/in/jorge-david-cabrera](https://www.linkedin.com/in/jorge-david-cabrera-415276202/)
 - Email: Jorgedavidcabrerautn@gmail.com
 
 <!---
