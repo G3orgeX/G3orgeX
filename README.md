@@ -1,41 +1,62 @@
-# Hi there, I'm Jorge Cabrera 👋
+👋 Hola, soy Jorge Cabrera
 
-## About Me
+💻 Desarrollador .NET especializado en desarrollo de aplicaciones empresariales.
 
-I'm a passionate software developer with expertise in multiple programming languages and frameworks. I have a keen interest in video games, programming, exercising, traveling to new places, and experiencing different cultures.
+Actualmente trabajo desarrollando sistemas con:
 
-## Skills
+- C#
+- VB.NET
+- ASP.NET
+- SQL Server
+- WinForms
+- APIs REST
 
-- **Programming Languages:**
-  - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  - ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  - JavaScript (React)
-- **Frameworks and Libraries:**
-  - .NET Framework
-  - React
-- **Databases:**
-  - SQL Server
-- **Currently Learning:**
-  - Git and GitHub
-  - English
-  - SQL
-  - Additional Programming Languages
+📍 Córdoba, Argentina
 
-## Interests
+---
 
-- **Video Games:** Avid gamer with a love for exploring new game mechanics and narratives.
-- **Programming:** Constantly improving my coding skills and learning new technologies.
-- **Fitness:** Enjoy maintaining an active lifestyle through regular exercise.
-- **Travel:** Enthusiastic about visiting new places and experiencing different cultures.
+# 🚀 Tecnologías
 
-## Collaboration
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-I'm looking to collaborate on web development projects and app development using Java. If you have any exciting projects or ideas, feel free to reach out!
+---
 
-## Contact Me
+# 📂 Proyectos Destacados
 
-- **Email:** [jorgecabutn75422@gmail.com](mailto:jorgecabutn75422@gmail.com)
-- **Phone:** +54 352 550 4830
+### Sistema de Liquidaciones
+Sistema desarrollado para gestión de liquidaciones bancarias.
+
+Tecnologías utilizadas:
+- VB.NET
+- SQL Server
+- WinForms
+
+---
+
+### Extranet Empresarial
+Sistema web para gestión de usuarios y pedidos.
+
+Tecnologías utilizadas:
+- ASP.NET
+- C#
+- SQL Server
+
+---
+
+# 📊 GitHub Stats
+
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=G3orgeX&show_icons=true&theme=tokyonight)
+
+---
+
+# 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/jorge-david-cabrera
+- Email: Jorgedavidcabrerautn@gmail.com
 
 <!---
 G3orgeX/G3orgeX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
